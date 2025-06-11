@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>镜花水月的碎碎念</title>
+  <icon>https://blog.joyhub.dpdns.org/img/avatar.png</icon>
+  
+  <link href="https://blog.joyhub.dpdns.org/atom.xml" rel="self"/>
+  
+  <link href="https://blog.joyhub.dpdns.org/"/>
+  <updated>2025-06-11T10:14:48.031Z</updated>
+  <id>https://blog.joyhub.dpdns.org/</id>
+  
+  <author>
+    <name>镜花水月</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>openwrt-PPPOE拨号配置IPV6</title>
+    <link href="https://blog.joyhub.dpdns.org/2025/06/11/openwrt-PPPOE%E6%8B%A8%E5%8F%B7%E9%85%8D%E7%BD%AEIPV6/"/>
+    <id>https://blog.joyhub.dpdns.org/2025/06/11/openwrt-PPPOE%E6%8B%A8%E5%8F%B7%E9%85%8D%E7%BD%AEIPV6/</id>
+    <published>2025-06-11T09:20:32.000Z</published>
+    <updated>2025-06-11T10:14:48.031Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;openwrt下IPv6配置&quot;&gt;&lt;a href=&quot;#openwrt下IPv6配置&quot; class=&quot;headerlink&quot; title=&quot;openwrt下IPv6配置&quot;&gt;&lt;/a&gt;openwrt下IPv6配置&lt;/h1&gt;&lt;p&gt;进入 OpenWrt</summary>
+        
+      
+    
+    
+    
+    
+    <category term="IPV6" scheme="https://blog.joyhub.dpdns.org/tags/IPV6/"/>
+    
+    <category term="openwrt" scheme="https://blog.joyhub.dpdns.org/tags/openwrt/"/>
+    
+  </entry>
+  
+</feed>
